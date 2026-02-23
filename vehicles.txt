@@ -1,0 +1,9 @@
+Car|CAB-0988|Mitsubishi|Tredia|1000.0|true|4
+Car|KA-2656|Mazda|Familia BJ5P|1800.0|true|4
+Van|PK-9108|Toyota|Townace|4800.0|true|650.0
+Car|KR-1179|Mazda|Familia|1000.0|true|4
+Car|CAO-1419|Suzuki|Alto 800|1400.0|true|4
+Van|PB-2547|Toyota|Noha|5200.0|true|850.0
+Bike|BFP-9032|Honda|Dio|600.0|true|110
+Bike|HP-2900|Bajaj|Caliber|500.0|true|115
+INCOME|38400.0
