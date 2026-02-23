@@ -1,0 +1,4 @@
+Car|KA-2656|Mazda|Familia|2500.0|true|4
+Bike|BFP-9032|Honda|Dio|750.0|true|125
+Van|PA-1212|Toyota|HIACE|3000.0|true|1100.0
+INCOME|0.0
